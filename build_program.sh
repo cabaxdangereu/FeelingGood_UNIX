@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc main.c -o a.out
+gcc main.c -o enumerate_numbers
