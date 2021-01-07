@@ -6,3 +6,4 @@ fi
 if [ -f "$FILE2" ]; then
     rm enumerate_numbers
 fi
+#suppression de fichier s il existe
