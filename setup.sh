@@ -1,2 +1,2 @@
 #!/bin/bash
-dpkg -l gcc*
+sudo apt-get install gcc
